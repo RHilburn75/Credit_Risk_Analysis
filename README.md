@@ -1,9 +1,9 @@
 # Credit_Risk_Analysis
 
-## Overview
+# Overview
 
 
-## Results
+# Results
 
 
 ## SMOTE Oversampling
