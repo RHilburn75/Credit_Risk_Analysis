@@ -35,19 +35,20 @@
   * Precision Low Risk: 100%
   * Recall High Risk: 70%
   * Recall Low Risk: 64%
+  
 ![image](https://user-images.githubusercontent.com/94253815/160261050-e1efe037-90ea-4191-8181-47ef280bd829.png)
 
 
 
 ## Cluster Centroid Undersampling
-
-![image](https://user-images.githubusercontent.com/94253815/160261063-148ae998-3e50-455b-9954-95bb9391efe0.png)
   * Accuracy Score: 51.1%
   * Precision High Risk: 0%
   * Precision Low Risk: 100%
   * Recall High Risk: 58%
   * Recall Low Risk: 44%
-
+  
+![image](https://user-images.githubusercontent.com/94253815/160261063-148ae998-3e50-455b-9954-95bb9391efe0.png)
+  
 
 
 ## SMOTEENN Sampling
@@ -56,6 +57,7 @@
   * Precision Low Risk: 100%
   * Recall High Risk: 76%
   * Recall Low Risk: 60%
+  
 ![image](https://user-images.githubusercontent.com/94253815/160261080-8e5d5c07-651e-4f04-9d0e-7e277e70f733.png)
 
 
@@ -66,6 +68,7 @@
   * Precision Low Risk: 100%
   * Recall High Risk: 30%
   * Recall Low Risk: 100%
+  
 ![image](https://user-images.githubusercontent.com/94253815/160261151-1a6823a9-816a-446a-ab1a-0d093039c731.png)
 
 
@@ -76,6 +79,7 @@
   * Precision Low Risk: 100%
   * Recall High Risk: 91%
   * Recall Low Risk: 94%
+  
 ![image](https://user-images.githubusercontent.com/94253815/160261230-dacd124c-05f2-4db1-a01e-3c09f15995a2.png)
 
 
