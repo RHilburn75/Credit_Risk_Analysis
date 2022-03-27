@@ -31,6 +31,7 @@
 
 ## Cluster Centroid Undersampling
 
+![image](https://user-images.githubusercontent.com/94253815/160261063-148ae998-3e50-455b-9954-95bb9391efe0.png)
 
 
 
