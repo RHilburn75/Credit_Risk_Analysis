@@ -86,14 +86,14 @@
 
 # Summary
    After conducting the analysis, the models that scored the highest in accuracy scores were the following:
-    * Easy Ensemble Classifying - 92.2%
-    * SMOTEENN Sampling - 68.1%
-    * Naive Random Oversampling & SMOTE Oversampling tied with a score of - 67.3
+   * Easy Ensemble Classifying - 92.2%
+   * SMOTEENN Sampling - 68.1%
+   * Naive Random Oversampling & SMOTE Oversampling tied with a score of - 67.3
    While overall, this is the most important data to follow , as this shows how it scored overall
  
    Low risk category would also be a good indicator and a metric to follow. Here are the two that scored the highest:
-    * Balanced Random Forest Classifying - 100%
-    * Easy Ensemble Classifying - 94%
+   * Balanced Random Forest Classifying - 100%
+   * Easy Ensemble Classifying - 94%
    These two had the lowest recall risk out of all 6 models. As we look into low risk , we also have to look and see what is also the opposite side of the spectrum and that is high risk. 
    
    Let us see what had the highest recall risk:
