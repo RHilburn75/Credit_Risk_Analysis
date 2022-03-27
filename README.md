@@ -48,5 +48,8 @@
 
 ## Easy Ensemble Classifying
 
+![image](https://user-images.githubusercontent.com/94253815/160261230-dacd124c-05f2-4db1-a01e-3c09f15995a2.png)
+
+
 
 # Summary
