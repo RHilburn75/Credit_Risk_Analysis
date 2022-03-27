@@ -43,6 +43,7 @@
 
 ## Balanced Random Forest Classifying
 
+![image](https://user-images.githubusercontent.com/94253815/160261151-1a6823a9-816a-446a-ab1a-0d093039c731.png)
 
 
 ## Easy Ensemble Classifying
