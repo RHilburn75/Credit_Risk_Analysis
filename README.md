@@ -38,8 +38,11 @@
 
 ## SMOTEENN Sampling
 
+![image](https://user-images.githubusercontent.com/94253815/160261080-8e5d5c07-651e-4f04-9d0e-7e277e70f733.png)
+
 
 ## Balanced Random Forest Classifying
+
 
 
 ## Easy Ensemble Classifying
