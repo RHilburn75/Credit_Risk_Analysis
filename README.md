@@ -25,8 +25,15 @@
 
 ## SMOTE Oversampling
 
+![image](https://user-images.githubusercontent.com/94253815/160261050-e1efe037-90ea-4191-8181-47ef280bd829.png)
+
+
 
 ## Cluster Centroid Undersampling
+
+
+
+
 
 ## SMOTEENN Sampling
 
