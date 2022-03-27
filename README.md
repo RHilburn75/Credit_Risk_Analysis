@@ -28,6 +28,7 @@
 ![image](https://user-images.githubusercontent.com/94253815/160261037-4d524a80-af29-4966-be6c-944f5e768258.png)
 
 
+
 ## SMOTE Oversampling
   * Accuracy Score: 67.3%
   * Precision High Risk: 1%
@@ -58,6 +59,7 @@
 ![image](https://user-images.githubusercontent.com/94253815/160261080-8e5d5c07-651e-4f04-9d0e-7e277e70f733.png)
 
 
+
 ## Balanced Random Forest Classifying
   * Accuracy Score: 64.8%
   * Precision High Risk: 56%
@@ -65,6 +67,7 @@
   * Recall High Risk: 30%
   * Recall Low Risk: 100%
 ![image](https://user-images.githubusercontent.com/94253815/160261151-1a6823a9-816a-446a-ab1a-0d093039c731.png)
+
 
 
 ## Easy Ensemble Classifying
@@ -78,3 +81,22 @@
 
 
 # Summary
+   After conducting the analysis, the models that scored the highest in accuracy scores were the following:
+    * Easy Ensemble Classifying - 92.2%
+    * SMOTEENN Sampling - 68.1%
+    * Naive Random Oversampling & SMOTE Oversampling tied with a score of - 67.3
+   While overall, this is the most important data to follow , as this shows how it scored overall
+ 
+   Low risk category would also be a good indicator and a metric to follow. Here are the two that scored the highest:
+    * Balanced Random Forest Classifying - 100%
+    * Easy Ensemble Classifying - 94%
+   These two had the lowest recall risk out of all 6 models. As we look into low risk , we also have to look and see what is also the opposite side of the spectrum and that is high risk. 
+   
+   Let us see what had the highest recall risk:
+    * Easy Ensemble Classifying - 91%
+    * SMOTEENN Sampling - 76%
+   
+   Overall, looking at all the models and how they scored, I would recommned using the Easy ensemble Classifying  model to predict high risk loans.  It has shown to be the most accurate out of all the models.
+   
+   
+  
