@@ -97,8 +97,8 @@
    These two had the lowest recall risk out of all 6 models. As we look into low risk , we also have to look and see what is also the opposite side of the spectrum and that is high risk. 
    
    Let us see what had the highest recall risk:
-    * Easy Ensemble Classifying - 91%
-    * SMOTEENN Sampling - 76%
+   * Easy Ensemble Classifying - 91%
+   * SMOTEENN Sampling - 76%
    
    Overall, looking at all the models and how they scored, I would recommned using the Easy ensemble Classifying  model to predict high risk loans.  It has shown to be the most accurate out of all the models.
    
