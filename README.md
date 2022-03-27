@@ -20,6 +20,7 @@
 
 ## Naive Random Oversampling
 
+![image](https://user-images.githubusercontent.com/94253815/160261037-4d524a80-af29-4966-be6c-944f5e768258.png)
 
 
 ## SMOTE Oversampling
